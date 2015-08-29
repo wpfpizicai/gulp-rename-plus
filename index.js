@@ -17,7 +17,7 @@ module.exports = function(options) {
 
             return function(content) {
                 return filename.split('.').map(function(item, i, arr) {
-                    return item;
+                    return i == arr.length - 1 ? 'ejs' : item
                 }).join('.');
             }
         }
