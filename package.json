@@ -1,6 +1,6 @@
 {
   "name": "gulp-rename-plus",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "devDependencies": {
     "glob": "^5.0.10",
     "gulp-util": "^3.0.4",
