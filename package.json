@@ -1,0 +1,35 @@
+{
+  "name": "gulp-rename-plus",
+  "version": "0.0.1",
+  "devDependencies": {
+    "glob": "^5.0.10",
+    "gulp-util": "^3.0.4",
+    "node.extend": "^1.1.4",
+    "through2": "^0.6.5"
+  },
+  "description": "This is a gulp plugin to rename file ",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-util": "^3.0.4",
+    "node.extend": "^1.1.4",
+    "glob": "^5.0.10",
+    "through2": "^0.6.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wpfpizicai/gulp-rename-plus.git"
+  },
+  "keywords": [
+    "gulp",
+    "rename"
+  ],
+  "author": "wpfpizicai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wpfpizicai/gulp-rename-plus/issues"
+  },
+  "homepage": "https://github.com/wpfpizicai/gulp-rename-plus"
+}
